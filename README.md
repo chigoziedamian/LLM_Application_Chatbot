@@ -1,2 +1,2 @@
 # LLM_Application_Chatbot
-A simple LLM Chatbot Application implementation,
+A simple LLM Chatbot Application implementation, built using Python and Flask
